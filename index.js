@@ -37,7 +37,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot Puffoso"];
+const statusMessages = ["Official Project7 Bot"];
 
 
 let currentIndex = 0;
