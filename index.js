@@ -37,7 +37,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Aiutando i tossici del discord..."];
+const statusMessages = ["Official Project7 Bot"];
 
 
 let currentIndex = 0;
